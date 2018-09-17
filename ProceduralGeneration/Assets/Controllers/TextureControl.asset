@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c92e28e4553657b4899ef888f8c6d056, type: 3}
+  m_Name: TextureControl
+  m_EditorClassIdentifier: 
+  update: 1
+  regions:
+  - startHeight: 0
+    blendStrength: 0.01
+    textureScale: 20
+    texture: {fileID: 2800000, guid: 14a3c248b24dc29499ad0b32bafeb5b8, type: 3}
+  - startHeight: 0.015
+    blendStrength: 0.01
+    textureScale: 20
+    texture: {fileID: 2800000, guid: bc266ac327b2f1541ac9f2d9c6846791, type: 3}
+  - startHeight: 0.03
+    blendStrength: 0.01
+    textureScale: 20
+    texture: {fileID: 2800000, guid: 42b974e282e1bed4ca2849b77f46681c, type: 3}
+  - startHeight: 0.15
+    blendStrength: 0.1
+    textureScale: 20
+    texture: {fileID: 2800000, guid: db71ee77dfb1de945a7fcf5e6b16931b, type: 3}
+  - startHeight: 0.25
+    blendStrength: 0.3
+    textureScale: 30
+    texture: {fileID: 2800000, guid: ffd403d34210b9b44b6249fefda9a5e5, type: 3}
+  - startHeight: 0.4
+    blendStrength: 0.3
+    textureScale: 30
+    texture: {fileID: 2800000, guid: a2be0b27ba5629c408440d1415b55943, type: 3}
+  - startHeight: 0.55
+    blendStrength: 0.3
+    textureScale: 20
+    texture: {fileID: 2800000, guid: 20b087adb51373942b530a0c58a045ac, type: 3}
